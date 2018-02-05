@@ -6,4 +6,6 @@ node
     checkout scm
     
     echo "pippo"
+    
+    echo pwd
 }
