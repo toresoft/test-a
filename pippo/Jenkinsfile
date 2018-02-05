@@ -7,5 +7,5 @@ node
     
     echo "pippo"
     
-    echo pwd
+    sh "ls -la ${pwd()}"
 }
